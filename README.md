@@ -1,6 +1,6 @@
 ### Hi there 👋 😄
 
-I'm Allen, finishing up my degree in Computer Science at Colby College 🐴.
+I'm Allen.
 
 I am technically curious and motivated, and am enthusiastic about cloud native technologies, machine learning, and embedded systems.
 
