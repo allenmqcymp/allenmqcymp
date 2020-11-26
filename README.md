@@ -2,9 +2,8 @@
 
 I'm Allen.
 
-I am technically curious and motivated, and am enthusiastic about cloud native technologies, machine learning, and embedded systems.
+I am technically curious and motivated, and am enthusiastic about distributed systems, machine learning, and IoT projects.
 
-In my spare time, I enjoy hacking on IoT and woodworking, particularly when I can think of a way to stuff electronics into my woodworking projects. 🤔
 
 - Pronouns: He/him/his
 
