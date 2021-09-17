@@ -2,8 +2,7 @@
 
 I'm Allen.
 
-I am technically curious and motivated, and am enthusiastic about distributed systems, machine learning, and IoT projects.
-
+Interested in distributed systems, cloud computing, IoT, snowboarding, and hiking!
 
 - Pronouns: He/him/his
 
