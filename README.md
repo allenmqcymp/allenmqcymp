@@ -4,6 +4,8 @@ I'm Allen.
 
 Interested in distributed systems, cloud computing, IoT, snowboarding, and hiking!
 
+Oh, and open source software of course!
+
 - Pronouns: He/him/his
 
 <!--
